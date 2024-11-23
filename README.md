@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parasdeveloper8
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning express
+- 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 How to reach me 
 - 😄 Pronouns: ...
