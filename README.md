@@ -1,12 +1,11 @@
 - 👋 Hi, I’m @Parasdeveloper8
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning golang
+- 🌱 I’m currently  developing in golang
 - 💞️ I’m looking to collaborate on full stack projects
-- 📫 How to reach me 
+- 📫 You can reach out me on linkedin
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am 14 aged developer
 
 <!---
 Parasdeveloper8/Parasdeveloper8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
