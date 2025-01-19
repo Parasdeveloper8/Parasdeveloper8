@@ -2,10 +2,10 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently  developing in golang
 - 💞️ I’m looking to collaborate on full stack projects
-- 📫 You can reach out me on linkedin
+- 📫 You can reach out me on linkedin : Paras Prajapat
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am 14 aged developer
-
+- ⚡ I build SDKs.
 <!---
 Parasdeveloper8/Parasdeveloper8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
