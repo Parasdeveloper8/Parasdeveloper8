@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on full stack projects
 - 📫 You can reach out me on linkedin : Paras Prajapat
 - 😄 Pronouns: ...
-- ⚡ Fun fact: I am 14 aged developer
+- ⚡ Fun fact: I am 15 aged developer
 - ⚡ I build SDKs.
 <!---
 Parasdeveloper8/Parasdeveloper8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
