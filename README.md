@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am 15 aged developer
 - ⚡ I build SDKs.
+- 🙄 Looking for backend internship.
 <!---
 Parasdeveloper8/Parasdeveloper8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
