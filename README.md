@@ -13,10 +13,16 @@
 
   __After frontend ,I worked in Node.js and express.js__
   
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" width="120"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="120">
 
 __I can develop website and Webapp at reasonable rate for you__
+
+__My current TechStack__
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" alt="Go Logo" width="100"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS Logo" width="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100">
 
 - __LinkedIn__:Paras Prajapat
 <!---
