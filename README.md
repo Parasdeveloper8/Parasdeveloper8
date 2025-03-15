@@ -3,7 +3,6 @@
 - 💞️ I’m looking to collaborate on full stack projects
 - ⚡ Fun fact: I am 15 aged developer
 - ⚡ I build SDKs.
-- 🙄 Looking for backend internship.
 
 - __LinkedIn__:Paras Prajapat
 <!---
