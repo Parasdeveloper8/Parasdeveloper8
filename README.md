@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Parasdeveloper8
-- 🌱 I’m a Polyglot backend engineer with tech stack Go PHP TS 
-- 💞️ I’m looking to collaborate on full stack projects
-- I am a freelancer
-- ⚡ Fun fact: I am 15 aged developer
+- 🌱 I’m a Software Engineer , loves to build 
+- 💞️ I’m looking to collaborate 
+- ⚡ Fun fact: I am 15 aged 
 - ⚡ I build SDKs.
+- ⚡ can switch to any tech stack 
 
 - __LinkedIn__:Paras Prajapat
 <!---
