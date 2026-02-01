@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parasdeveloper8
 - 🌱 I’m a Software Engineer , loves to build 
 - 💞️ I’m looking to collaborate 
-- ⚡ Fun fact: I am 15 aged 
+- ⚡ Fun fact: I am 16 aged 
 - ⚡ I build SDKs.
 - ⚡ can switch to any tech stack 
 
